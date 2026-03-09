@@ -1,0 +1,5 @@
+{
+  "name": "Map Animator",
+  "description": "A 3D animated map creator similar to mult.dev. Add places, connect them with routes, and watch them animate on a 3D globe.",
+  "requestFramePermissions": []
+}
